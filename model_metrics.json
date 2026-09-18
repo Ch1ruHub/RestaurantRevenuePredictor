@@ -1,0 +1,20 @@
+{
+  "data_rows": 2500,
+  "train_rows": 2000,
+  "test_rows": 500,
+  "split": "80% training / 20% testing, seed=42",
+  "target": "Monthly_Revenue",
+  "excluded_identifier": [
+    "Outlet_ID"
+  ],
+  "test_r_squared": 0.9745,
+  "adjusted_r_squared_training": 0.9773,
+  "test_mae_in_INR": 8707.18,
+  "test_mse": 125707078.88,
+  "test_rmse_in_INR": 11211.92,
+  "durbin_watson": 2.057,
+  "max_vif": 1.2226,
+  "standardized_residuals_over_3": 21,
+  "cooks_distance_over_4_over_n": 111,
+  "outlier_decision": "Valid generated observations were retained; flags are reported rather than silently deleted."
+}

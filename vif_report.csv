@@ -1,0 +1,17 @@
+feature,VIF
+Average_Daily_Customers,1.0055918162455575
+Average_Bill_Value,1.0075852115491828
+Delivery_Order_Percentage,1.0091053323029724
+Seating_Capacity,1.0028198532712127
+Employee_Count,1.0061903459498265
+Promotion_Spend,1.0051115853292107
+Customer_Rating,1.0054944966098742
+Cuisine_Type=Continental,1.1606973782621892
+Cuisine_Type=Fast Food,1.1429924861640426
+Cuisine_Type=Italian,1.14308326632814
+Cuisine_Type=North Indian,1.1928668025042184
+Cuisine_Type=South Indian,1.1529032460946909
+Location_Type=Food Court,1.2226160038353513
+Location_Type=High Street,1.2039830872070825
+Location_Type=Mall,1.2132213023248453
+Location_Type=Standalone,1.179745580571894

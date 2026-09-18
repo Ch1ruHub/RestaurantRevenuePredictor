@@ -1,0 +1,4 @@
+{
+  "Customer_Rating": "Capped 0 values above 5 at 5.0; no rows removed.",
+  "Outlet_ID": "Excluded from predictors because it is an identifier."
+}
