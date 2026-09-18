@@ -9,7 +9,7 @@ from restaurant_pipeline import RestaurantRevenuePipeline
 
 ROOT = Path(__file__).resolve().parent
 CUISINE_IMAGES = {
-    "Chinese": ROOT / "assets" / "chinese-noodles.png",
+    "Chinese": "https://images.unsplash.com/photo-1559314809-0d155014e29e?auto=format&fit=crop&w=1000&q=85",
     "North Indian": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=1000&q=85",
     "Continental": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1000&q=85",
     "Italian": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1000&q=85",
